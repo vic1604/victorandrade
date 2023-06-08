@@ -1,6 +1,7 @@
 ## Victor Andrade
 
-tutorial GIT/GITHUB
+## Tutorial GIT/GITHUB
+
 ## Inicializando um novo repositório: git init
 Para criar um novo repositório, você vai usar o comando git init. git init é um comando único que você usa durante a configuração inicial de um novo repositório. A execução desse comando cria um novo subdiretório .git no diretório de trabalho atual. Essa ação também vai criar uma ramificação principal.
 
